@@ -1,1 +1,1 @@
-# PSNRWatermark
+# PSNR
